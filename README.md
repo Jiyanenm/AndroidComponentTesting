@@ -24,13 +24,13 @@ app/
 
 ## Features
 
-✔ Email/password validation  
-✔ Button enable/disable  
-✔ Error messaging  
-✔ Offline mode  
-✔ Lockout after 3 failures  
-✔ Remember me  
-✔ Deterministic tests
+- Email/password validation  
+- Button enable/disable  
+-  Error messaging  
+-  Offline mode  
+-  Lockout after 3 failures  
+-  Remember me  
+-  Deterministic tests
 
 ## Run Tests
 
